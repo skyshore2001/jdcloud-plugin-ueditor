@@ -20,7 +20,7 @@
 
 示例设计：
 
-	@Item: id, ... detail
+	@Item: id, ... detail(t)
 
 	- detail: 商品详情，支持富文本。
 
